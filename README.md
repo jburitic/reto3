@@ -2,3 +2,4 @@
 
 Solución al reto 3
 
+![Resultado del test](https://github.com/jburitic/reto3/raw/main/testResultReto3.PNG)
